@@ -7,7 +7,7 @@ This repository contains an overview of all our public projects and research ini
 
 </br>
 
-## Cryptocurrency Projects
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d2cWxibWE2aTIzeDFpMzMzcWptNXI3bzAycG45ZzNqNHp6d2RsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WT9wi81vtEhqt17SE4/giphy.gif" width="5%"> Cryptocurrency Projects
 
 | Repository | Description |
 |------------|-------------|
@@ -20,7 +20,7 @@ This repository contains an overview of all our public projects and research ini
 
 </br>
 
-## Cyber Security Projects
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNwcGdhbmF3OXJhbWhxanR4NDR2MWd3NGZ6M3Nia2hwc201Ym1pZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wgvsRSZ2RNeG6HxfBN/giphy.gif" width="5%"> Cyber Security Projects
 
 | Repository | Description |
 |------------|-------------|
@@ -30,7 +30,7 @@ This repository contains an overview of all our public projects and research ini
 
 </br>
 
-## Generic Projects For Students
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQ0MGZ0aTVlOG56YTc4Z2c5MGx6dGpsZ2cxNXB5eDJoM2U4YW9ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TxGKXohg7rO5b0Ad7y/giphy.gif" width="5%"> Generic Projects For Students
 
 | Repository | Description |
 |------------|-------------|
@@ -40,7 +40,7 @@ This repository contains an overview of all our public projects and research ini
 
 </br>
 
-## Internal Administrative Projects
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJiN3pmNjByZTRwZzNlcnBuNHJjd3VsNWZ6dXJ0ZjZxdzZsZ3pyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uLF4SYgnfkuEUufPwg/giphy.gif" width="5%"> Internal Administrative Projects
 
 | Repository | Description |
 |------------|-------------|
