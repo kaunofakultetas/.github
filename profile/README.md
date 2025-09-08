@@ -24,7 +24,7 @@ This repository contains an overview of all our public projects and research ini
 
 | Repository | Description |
 |------------|-------------|
-| [fisingas.knf.vu.lt](https://github.com/kaunofakultetas/fisingas.knf.vu.lt) | Phishing recognition test for students to evaluate capacity to recognize phishing |
+| [fisingas.knf.vu.lt](https://github.com/kaunofakultetas/fisingas.knf.vu.lt) | Phishing recognition test for students to evaluate their capacity to recognize phishing |
 
 
 
