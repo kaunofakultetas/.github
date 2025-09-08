@@ -27,6 +27,15 @@ This repository contains an overview of all our public projects and research ini
 | [fisingas.knf.vu.lt](https://github.com/kaunofakultetas/fisingas.knf.vu.lt) | Phishing recognition test for students to evaluate their capacity to recognize phishing |
 
 
+</br>
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt0bnJ1dWNqbnByZWVuNG5lNWxrMTh3N29uZWtoOGI1NHphZGk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif" width="5%"> Machine Learning Projects
+
+| Repository | Description |
+|------------|-------------|
+| [gateopener-server](https://github.com/kaunofakultetas/gateopener-server) | Gate opener with Automatic Number Plate Recognition (ANPR) system utilizing YOLO11 |
+
+
 
 </br>
 
@@ -44,7 +53,6 @@ This repository contains an overview of all our public projects and research ini
 
 | Repository | Description |
 |------------|-------------|
-| [gateopener-server](https://github.com/kaunofakultetas/gateopener-server) | Gate opener with Automatic Number Plate Recognition (ANPR) system utilizing YOLO11 |
 | [DuplicateScreens](https://github.com/kaunofakultetas/DuplicateScreens) | A tool to duplicate the desktop across multiple monitors |
 | [Laikrodis](https://github.com/kaunofakultetas/Laikrodis) | A project dedicated to the sundial at Vilniaus Universitetas Kauno Fakultetas |
 | [bookstack-backuper](https://github.com/kaunofakultetas/bookstack-backuper) | Docker container designed to create regular file backups of BookStack application pages |
