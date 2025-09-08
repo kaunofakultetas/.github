@@ -7,7 +7,7 @@ This repository contains an overview of all our public projects and research ini
 
 </br>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d2cWxibWE2aTIzeDFpMzMzcWptNXI3bzAycG45ZzNqNHp6d2RsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WT9wi81vtEhqt17SE4/giphy.gif" width="5%"> Cryptocurrency Projects
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d2cWxibWE2aTIzeDFpMzMzcWptNXI3bzAycG45ZzNqNHp6d2RsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WT9wi81vtEhqt17SE4/giphy.gif" width="5%"> Crypto Currency Projects
 
 | Repository | Description |
 |------------|-------------|
