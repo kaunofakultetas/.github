@@ -27,7 +27,7 @@ This repository contains an overview of all our public projects and research ini
 
 </br>
 
-## Internal Administive Projects
+## Internal Administrative Projects
 
 | Repository | Description |
 |------------|-------------|
