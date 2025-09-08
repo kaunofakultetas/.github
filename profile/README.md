@@ -43,7 +43,7 @@ This repository contains an overview of all our public projects and research ini
 
 | Repository | Description |
 |------------|-------------|
-| [shared-hosting](https://github.com/kaunofakultetas/shared-hosting) | Shared hosting platform which gives students disposable linux environments to run their apps on faculty resources |
+| [shared-hosting](https://github.com/kaunofakultetas/shared-hosting) | Shared hosting platform designed on Docker-In-Docker and sysbox runtime |
 | [rinkis.knf.vu.lt](https://github.com/kaunofakultetas/rinkis.knf.vu.lt) | Binary tree based game for school students to choose their study program in VU Kaunas faculty |
 
 
