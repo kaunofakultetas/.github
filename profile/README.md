@@ -46,7 +46,6 @@ This repository contains an overview of all our public projects and research ini
 | [shared-hosting](https://github.com/kaunofakultetas/shared-hosting) | Shared hosting platform designed on Docker-In-Docker and sysbox runtime |
 | [rinkis.knf.vu.lt](https://github.com/kaunofakultetas/rinkis.knf.vu.lt) | Binary tree based game for school students to choose their study program in VU Kaunas faculty |
 
-
 </br>
 
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJiN3pmNjByZTRwZzNlcnBuNHJjd3VsNWZ6dXJ0ZjZxdzZsZ3pyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uLF4SYgnfkuEUufPwg/giphy.gif" width="5%"> Internal Administrative Projects
@@ -58,7 +57,7 @@ This repository contains an overview of all our public projects and research ini
 | [bookstack-backuper](https://github.com/kaunofakultetas/bookstack-backuper) | Docker container designed to create regular file backups of BookStack application pages |
 | [notfound404](https://github.com/kaunofakultetas/notfound404) | Fun 404 page with a snake game |
 | [simple-login-page](https://github.com/kaunofakultetas/simple-login-page) | Simple password-wall GUI docker container using cookie-based and http proxy protection mechanism |
-
+| [timelapse-collector](https://github.com/kaunofakultetas/timelapse-collector) | Collects picture frames from surveillance cameras every 1 hour and stores them as pictures |
 
 </br>
 </br>
