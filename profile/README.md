@@ -34,6 +34,7 @@ This repository contains an overview of all our public projects and research ini
 | Repository | Description |
 |------------|-------------|
 | [gateopener-server](https://github.com/kaunofakultetas/gateopener-server) | Gate opener with Automatic Number Plate Recognition (ANPR) system utilizing YOLO11 |
+| [gateopener-rpi](https://github.com/kaunofakultetas/gateopener-rpi) | Gate opener hardware side which waits for signal from gateopener-server and phisically opens gate |
 
 
 
