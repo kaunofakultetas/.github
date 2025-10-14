@@ -17,6 +17,7 @@ This repository contains an overview of all our public projects and research ini
 | [lnd-dbreader](https://github.com/VUKNF-Fintech-Research-Group/lnd-dbreader) | LND Database Reader to collect LN channel and node announcements designed to work in conjunction with [blnstats](https://github.com/VUKNF-Fintech-Research-Group/blnstats) project |
 | [mynodebtc-updater](https://github.com/kaunofakultetas/mynodebtc-updater) | An update server for MyNodeBTC, encapsulated within a Docker container |
 | [genesis-generator](https://github.com/kaunofakultetas/Genesis-Generator) | Genesis block generator for the creation of new chain |
+| [utxo-fullnode-builder](https://github.com/kaunofakultetas/utxo-fullnode-builder) | UTXO based coin builder which includes all dependencies needed to build full node binary executables |
 
 </br>
 
@@ -25,7 +26,6 @@ This repository contains an overview of all our public projects and research ini
 | Repository | Description |
 |------------|-------------|
 | [knfcoin](https://github.com/kaunofakultetas/knfcoin) | KNFcoin used by students in laboratory works and experiments |
-| [utxo-fullnode-builder](https://github.com/kaunofakultetas/utxo-fullnode-builder) | UTXO based coin builder which includes all dependencies needed to build full node binary executables |
 | [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | ElectrumX server fork modified to support KNFcoin |
 | [electrum-knf](https://github.com/kaunofakultetas/electrum-knf) | Electrum wallet fork modified to support KNFcoin |
 
