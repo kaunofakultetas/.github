@@ -25,7 +25,8 @@ This repository contains an overview of all our public projects and research ini
 |------------|-------------|
 | [knfcoin](https://github.com/kaunofakultetas/knfcoin) | KNFcoin used by students in laboratory works and experiments |
 | [utxo-fullnode-builder](https://github.com/kaunofakultetas/utxo-fullnode-builder) | UTXO based coin builder which includes all dependencies needed to build full node binary executables |
-| [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | Electrumx server fork modified to support KNFcoin |
+| [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | ElectrumX server fork modified to support KNFcoin |
+| [electrum-knf](https://github.com/kaunofakultetas/electrum-knf) | Electrum wallet fork modified to support KNFcoin |
 | [genesis-generator](https://github.com/kaunofakultetas/Genesis-Generator) | Genesis block generator for the creation of new chain |
 
 </br>
