@@ -28,6 +28,7 @@ This repository contains an overview of all our public projects and research ini
 | [knfcoin](https://github.com/kaunofakultetas/knfcoin) | KNFcoin used by students in laboratory works and experiments |
 | [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | ElectrumX server fork modified to support KNFcoin |
 | [electrum-knf](https://github.com/kaunofakultetas/electrum-knf) | Electrum wallet fork modified to support KNFcoin |
+| [knfcoin-rpc-explorer](https://github.com/kaunofakultetas/knfcoin-rpc-explorer) | Database-free, self-hosted KNFcoin explorer, via RPC to full node Core |
 
 </br>
 
