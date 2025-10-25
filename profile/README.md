@@ -23,12 +23,12 @@ This repository contains an overview of all our public projects and research ini
 
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE5NzlwazVrbWJsZmdpYXMya3JucXU5OWc0a3JpMXdpeWc3NGN4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eG4Y2ROCoYIEIKbbJV/giphy.gif" width="5%"> KNF Coin:
 
-| Repository | Description |
-|------------|-------------|
-| [knfcoin](https://github.com/kaunofakultetas/knfcoin) | KNFcoin used by students in laboratory works and experiments (Fork of Litecoin Core) |
-| [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | ElectrumX server fork modified to support KNFcoin |
-| [electrum-knf](https://github.com/kaunofakultetas/electrum-knf) | Electrum wallet fork modified to support KNFcoin |
-| [knfcoin-rpc-explorer](https://github.com/kaunofakultetas/knfcoin-rpc-explorer) | Database-free, self-hosted KNFcoin explorer, via RPC to full node Core |
+| Repository | Component | Description |
+|------------|-----------|-------------|
+| [knfcoin](https://github.com/kaunofakultetas/knfcoin) | Full Node | KNFcoin used by students in laboratory works and experiments (Fork of Litecoin Core) |
+| [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | Electrum Server | ElectrumX server fork modified to support KNFcoin |
+| [electrum-knf](https://github.com/kaunofakultetas/electrum-knf) | Electrum Wallet | Electrum wallet fork modified to support KNFcoin |
+| [knfcoin-rpc-explorer](https://github.com/kaunofakultetas/knfcoin-rpc-explorer) | Block Explorer | Database-free, self-hosted KNFcoin explorer, via RPC to full node Core |
 
 </br>
 
