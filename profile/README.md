@@ -72,7 +72,7 @@ This repository contains an overview of all our public projects and research ini
 | [simple-login-page](https://github.com/kaunofakultetas/simple-login-page) | Simple password-wall GUI docker container using cookie-based and http proxy protection mechanism |
 | [timelapse-collector](https://github.com/kaunofakultetas/timelapse-collector) | Collects picture frames from surveillance cameras every 1 hour and stores them as pictures |
 | [it-dept-snippets](https://github.com/kaunofakultetas/it-dept-snippets) | Various snippets for the IT Department for managing windows workstations and installed software |
-
+| [ssl-checker](https://github.com/kaunofakultetas/ssl-checker) | Regularly checks HTTPS certificate expirations and sends results to zabbix |
 </br>
 </br>
 
