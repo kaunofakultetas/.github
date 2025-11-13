@@ -18,7 +18,7 @@ This repository contains an overview of all our public projects and research ini
 | [mynodebtc-updater](https://github.com/kaunofakultetas/mynodebtc-updater) | An update server for MyNodeBTC, encapsulated within a Docker container |
 | [genesis-generator](https://github.com/kaunofakultetas/Genesis-Generator) | Genesis block generator for the creation of new UTXO-based chain |
 | [utxo-fullnode-builder](https://github.com/kaunofakultetas/utxo-fullnode-builder) | UTXO based coin builder which includes all dependencies needed to build full node binary executables |
-| [nft-marketplace](https://github.com/kaunofakultetas/nft-marketplace) | Self-Hosted NFT marketplace, intended to teach students about decentralized NFT marketplaces |
+| [nft-marketplace](https://github.com/kaunofakultetas/nft-marketplace) | Self-Hosted NFT marketplace, intended to teach students about decentralized marketplaces/exchanges and smart contracts |
 </br>
 
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE5NzlwazVrbWJsZmdpYXMya3JucXU5OWc0a3JpMXdpeWc3NGN4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eG4Y2ROCoYIEIKbbJV/giphy.gif" width="5%"> KNF Coin:
