@@ -49,6 +49,14 @@ This repository contains an overview of all our public projects and research ini
 | [gateopener-rpi](https://github.com/kaunofakultetas/gateopener-rpi) | Gate opener hardware side which waits for signal from gateopener-server and phisically opens gate |
 
 
+</br>
+
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhseWdpaG9oaG1kYWw5bmR1bnZnMXY1cTMyb3Z3OGcwYnJzajViaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rG07umn08qDBwXbpAP/giphy.gif" width="5%"> Shared Hosting Platform
+
+| Repository | Description |
+|------------|-------------|
+| [shared-hosting](https://github.com/kaunofakultetas/shared-hosting) | Shared hosting platform designed on Docker-In-Docker and sysbox runtime |
+| [sshr](https://github.com/kaunofakultetas/sshr) | Forked and modified SSH router for faculty needs (specifically for [shared-hosting](https://github.com/kaunofakultetas/shared-hosting)) |
 
 </br>
 
@@ -56,7 +64,6 @@ This repository contains an overview of all our public projects and research ini
 
 | Repository | Description |
 |------------|-------------|
-| [shared-hosting](https://github.com/kaunofakultetas/shared-hosting) | Shared hosting platform designed on Docker-In-Docker and sysbox runtime |
 | [rinkis.knf.vu.lt](https://github.com/kaunofakultetas/rinkis.knf.vu.lt) | Binary tree based game for school students to choose their study program in VU Kaunas faculty |
 
 </br>
@@ -73,7 +80,6 @@ This repository contains an overview of all our public projects and research ini
 | [timelapse-collector](https://github.com/kaunofakultetas/timelapse-collector) | Collects picture frames from surveillance cameras every 1 hour and stores them as pictures |
 | [it-dept-snippets](https://github.com/kaunofakultetas/it-dept-snippets) | Various snippets for the IT Department for managing windows workstations and installed software |
 | [ssl-checker](https://github.com/kaunofakultetas/ssl-checker) | Regularly checks HTTPS certificate expirations and sends results to zabbix |
-| [sshr](https://github.com/kaunofakultetas/sshr) | Forked and modified SSH router for faculty needs (specifically for [shared-hosting](https://github.com/kaunofakultetas/shared-hosting)) |
 </br>
 </br>
 
