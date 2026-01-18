@@ -81,6 +81,7 @@ This repository contains an overview of all our public projects and research ini
 | [it-dept-snippets](https://github.com/kaunofakultetas/it-dept-snippets) | Various snippets for the IT Department for managing windows workstations and installed software |
 | [ssl-checker](https://github.com/kaunofakultetas/ssl-checker) | Regularly checks HTTPS certificate expirations and sends results to zabbix |
 | [filebrowser-noauth](https://github.com/kaunofakultetas/filebrowser-noauth) | Filebrowser without authentication |
+| [caddy-l4](https://github.com/kaunofakultetas/caddy-l4) | Caddy prepared to work on L4 OSI layer |
 </br>
 </br>
 
