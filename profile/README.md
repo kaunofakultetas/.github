@@ -66,6 +66,7 @@ This repository contains an overview of all our public projects and research ini
 |------------|-------------|
 | [TracerPdqBridge](https://github.com/kaunofakultetas/TracerPdqBridge) | Tracer PDQ Bridge agent that connects PDQ Invertory and Tracer System |
 
+</br>
 
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQ0MGZ0aTVlOG56YTc4Z2c5MGx6dGpsZ2cxNXB5eDJoM2U4YW9ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TxGKXohg7rO5b0Ad7y/giphy.gif" width="5%"> Generic Projects For Students
 
