@@ -65,6 +65,7 @@ This repository contains an overview of all our public projects and research ini
 | Repository | Description |
 |------------|-------------|
 | [TracerPdqBridge](https://github.com/kaunofakultetas/TracerPdqBridge) | Tracer PDQ Bridge agent that connects PDQ Invertory and Tracer System |
+| [TracerOnionBridge](https://github.com/kaunofakultetas/TracerOnionBridge) | Tracer Onion Bridge agent that connects Security Onion and Tracer System |
 
 </br>
 
