@@ -64,6 +64,7 @@ This repository contains an overview of all our public projects and research ini
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0Nzd2czZkaXB0cjB3aDB2ZWs0dmM3b3ppZnl0NDJxZWQyaXQ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nEylPHOr2sOzudPrTX/giphy.gif" width="5%"> Tracer System
 | Repository | Description |
 |------------|-------------|
+| [TracerAgent](https://github.com/kaunofakultetas/TracerAgent) | Tracer Agent that sends logged in user information Tracer System |
 | [TracerPdqBridge](https://github.com/kaunofakultetas/TracerPdqBridge) | Tracer PDQ Bridge agent that connects PDQ Invertory and Tracer System |
 | [TracerSaltoBridge](https://github.com/kaunofakultetas/TracerSaltoBridge) | Tracer Salto Bridge agent that connects Salto Space and Tracer System |
 | [TracerOnionBridge](https://github.com/kaunofakultetas/TracerOnionBridge) | Tracer Onion Bridge agent that connects Security Onion and Tracer System |
