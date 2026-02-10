@@ -68,7 +68,7 @@ This repository contains an overview of all our public projects and research ini
 | [TracerActivedirBridge](https://github.com/kaunofakultetas/TracerActivedirBridge) | Tracer Activedir Bridge agent that connects Activedirectory and Tracer System |
 | [TracerPdqBridge](https://github.com/kaunofakultetas/TracerPdqBridge) | Tracer PDQ Bridge agent that connects PDQ Invertory and Tracer System |
 | [TracerSaltoBridge](https://github.com/kaunofakultetas/TracerSaltoBridge) | Tracer Salto Bridge agent that connects Salto Space and Tracer System |
-| [TracerOnionBridge](https://github.com/kaunofakultetas/TracerOnionBridge) | Tracer Onion Bridge agent that connects Security Onion and Tracer System |
+| [TracerRadiusBridge](https://github.com/kaunofakultetas/TracerRadiusBridge) | Tracer Radius Bridge agent that sends wifi radius logins to Tracer System |
 
 </br>
 
