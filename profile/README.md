@@ -57,6 +57,7 @@ This repository contains an overview of all our public projects and research ini
 |------------|-------------|
 | [shared-hosting](https://github.com/kaunofakultetas/shared-hosting) | Shared hosting platform designed on Docker-In-Docker and sysbox runtime |
 | [sshr](https://github.com/kaunofakultetas/sshr) | Forked and modified SSH router for faculty needs (specifically for [shared-hosting](https://github.com/kaunofakultetas/shared-hosting)) |
+| [dockge-optimized](https://github.com/kaunofakultetas/dockge-optimized) | Optimized Dockge docker image (for [shared-hosting](https://github.com/kaunofakultetas/shared-hosting)) |
 
 </br>
 
