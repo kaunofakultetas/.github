@@ -37,7 +37,7 @@ This repository contains an overview of all our public projects and research ini
 | Repository | Description |
 |------------|-------------|
 | [fisingas.knf.vu.lt](https://github.com/kaunofakultetas/fisingas.knf.vu.lt) | Phishing recognition test for students to evaluate their capacity to recognize phishing |
-| [lab.knf.vu.lt](https://github.com/kaunofakultetas/lab.knf.vu.lt) | A cybersecurity lab platform where students solve hacking challenges, compete on leaderboards and earn points.
+| [lab.knf.vu.lt](https://github.com/kaunofakultetas/lab.knf.vu.lt) | A cybersecurity lab platform where students solve hacking challenges, compete on leaderboards.
 
 
 </br>
