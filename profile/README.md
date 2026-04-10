@@ -80,9 +80,16 @@ This repository contains an overview of all our public projects and research ini
 | Repository | Description |
 |------------|-------------|
 | [rinkis.knf.vu.lt](https://github.com/kaunofakultetas/rinkis.knf.vu.lt) | Binary tree based game for school students to choose their study program in VU Kaunas faculty |
+| [manim-videos](https://github.com/kaunofakultetas/manim-videos) | Animated explainer videos |
+
+</br>
+
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUza2t3cDNlZjNvNDZodTF5NHFnb3YwdXlmM2Y3aTBjemRycnA4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vh9I5zHeeAVTgk7iSK/giphy.gif" width="5%"> VU KnF Mobile APP
+
+| Repository | Description |
+|------------|-------------|
 | [knfapp-mobile](https://github.com/kaunofakultetas/knfapp-mobile) | Mobile app for VU KnF community (Not Finished) |
 | [knfapp-backend](https://github.com/kaunofakultetas/knfapp-backend) | Mobile app backend for VU KnF community (Not Finished) |
-| [manim-videos](https://github.com/kaunofakultetas/manim-videos) | Animated explainer videos |
 
 </br>
 
