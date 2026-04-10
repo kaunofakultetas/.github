@@ -39,7 +39,7 @@ This repository contains an overview of all our public projects and research ini
 | [fisingas.knf.vu.lt](https://github.com/kaunofakultetas/fisingas.knf.vu.lt) | Phishing recognition test for students to evaluate their capacity to recognize phishing |
 | [lab.knf.vu.lt](https://github.com/kaunofakultetas/lab.knf.vu.lt) | A cybersecurity lab platform where students solve hacking challenges, compete on leaderboards |
 | [cyberphish.knf.vu.lt](https://github.com/kaunofakultetas/cyberphish.knf.vu.lt) | Phishing awareness training platform with scenarios, knowledge tests, and self-evaluation |
-
+| [multi-agent-vuln-research](https://github.com/kaunofakultetas/multi-agent-vuln-research) | Agent team using Claude Code security scanner to find vulnerabilities (SAST + DAST) |
 
 </br>
 
