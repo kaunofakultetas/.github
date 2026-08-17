@@ -11,7 +11,7 @@ This repository contains an overview of all our public projects and research ini
 
 | Repository | Description |
 |------------|-------------|
-| [crypto-faucet](https://github.com/kaunofakultetas/crypto-faucet) | Testnet crypto faucet used to distribute coins with education tools like blockchain simulator and 51% attack tool |
+| [crypto-faucet](https://github.com/kaunofakultetas/crypto-faucet) | Testnet crypto faucet used to distribute coins with education tools like blockchain simulator |
 | [anypool-stratum](https://github.com/kaunofakultetas/anypool-stratum) | Simplified stratum server for students to mine testnet coins in solo mode |
 | [blnstats](https://github.com/VUKNF-Fintech-Research-Group/blnstats) | Bitcoin Lightning Network statistics platform |
 | [lnd-dbreader](https://github.com/VUKNF-Fintech-Research-Group/lnd-dbreader) | LND Database Reader to collect LN channel and node announcements designed to work in conjunction with [blnstats](https://github.com/VUKNF-Fintech-Research-Group/blnstats) project |
