@@ -29,6 +29,7 @@ This repository contains an overview of all our public projects and research ini
 | [knfcoin-electrumx](https://github.com/kaunofakultetas/knfcoin-electrumx) | Electrum Server | ElectrumX server fork modified to support KNFcoin |
 | [electrum-knf](https://github.com/kaunofakultetas/electrum-knf) | Electrum Wallet | Electrum wallet fork modified to support KNFcoin |
 | [knfcoin-rpc-explorer](https://github.com/kaunofakultetas/knfcoin-rpc-explorer) | Block Explorer | Database-free, self-hosted KNFcoin explorer, via RPC to full node Core |
+| [reorg-tool](https://github.com/kaunofakultetas/reorg-tool) | 51% attack tool | Tool built to demonstrate vulnerabilities in weak blockchain networks and experiment with 51% attack |
 
 </br>
 
